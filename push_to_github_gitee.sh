@@ -43,7 +43,7 @@ git remote add gitee https://gitee.com/woo-rookie/ur3_ikfastpy.git
 git remote add github https://github.com/woo-rookie/ur3_ikfastpy.git
 
 # git commit -m "$(date)"
-git commit -m "no maxcasedepth limit"
+git commit -m "use ur3.robot.xml and maxcasedepth 1"
 
 # git pull gitee master
 # git pull github master
