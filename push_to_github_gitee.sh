@@ -46,7 +46,7 @@ git remote add github https://github.com/woo-rookie/ur3_ikfastpy.git
 git commit -m "use ur3.robot.xml and no maxcasedepth limit"
 
 # git pull gitee master
-# git pull github master
+git pull github master
 
 # git push gitee master
 git push github master
