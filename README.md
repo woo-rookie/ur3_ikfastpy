@@ -79,7 +79,7 @@ If you find [IKFast](http://openrave.org/docs/0.8.2/openravepy/ikfast/) useful, 
 }
 ```
 
-This module was also a part of [Visual Pushing and Grasping](https://github.com/andyzeng/visual-pushing-grasping). If you find it useful in your work, please consider citing:
+This module was revised from [Visual Pushing and Grasping](https://github.com/andyzeng/visual-pushing-grasping). If you find it useful in your work, please consider citing:
 
 ```
 @inproceedings{zeng2018learning,
