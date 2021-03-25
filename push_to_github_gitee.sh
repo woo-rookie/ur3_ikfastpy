@@ -39,16 +39,16 @@ git init
 
 git add .
 
-# git remote add gitee https://gitee.com/woo-rookie/ur3_ikfastpy.git
+git remote add gitee https://gitee.com/woo-rookie/ur3_ikfastpy.git
 git remote add github https://github.com/woo-rookie/ur3_ikfastpy.git
 
 # git commit -m "$(date)"
-git commit -m "use ur3.robot.xml and no maxcasedepth limit"
+git commit -m "ur3.robot.xml added end effector offset"
 
-# git pull gitee master
+git pull gitee master
 git pull github master
 
-# git push gitee master
+git push gitee master
 git push github master
 
 
